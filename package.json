@@ -1,0 +1,23 @@
+{
+  "name": "07-nodejs-lab",
+  "version": "1.0.0",
+  "description": "ryan-amanda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandakoster/07-nodejs-npm-express.git"
+  },
+  "author": "ryan and amanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandakoster/07-nodejs-npm-express/issues"
+  },
+  "homepage": "https://github.com/amandakoster/07-nodejs-npm-express#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
