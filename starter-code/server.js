@@ -1,7 +1,6 @@
 'use strict';
 
-// TODO: Initialize your project using NPM to create and populate a package.json file
-npm init //https://docs.npmjs.com/getting-started/using-a-package.json
+// TODO: Initialize your project using NPM to create and populate a package.json file - npm init
 npm install --save express
 // TODO: Require the Express package that you installed via NPM, and instantiate the app
 // const express = require('express');
