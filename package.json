@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/amandakoster/07-nodejs-npm-express/issues"
   },
-  "homepage": "https://github.com/amandakoster/07-nodejs-npm-express#readme"
+  "homepage": "https://github.com/amandakoster/07-nodejs-npm-express#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
 }
