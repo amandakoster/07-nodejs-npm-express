@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 
 app.use(express.static('./public'));
 
-app.get('/route', (req, res) =>
+app.get('/new.html', (req, res) =>
   res.send('this is new html', { root: '.'})
 );
 
